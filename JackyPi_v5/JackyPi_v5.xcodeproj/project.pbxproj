@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2ADFB0EB24B995F7003EC4D2 /* HeartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ADFB0EA24B995F7003EC4D2 /* HeartView.swift */; };
 		B6223A9D24ADCCF5008B1870 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6223A9C24ADCCF5008B1870 /* AppDelegate.swift */; };
 		B6223A9F24ADCCF5008B1870 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6223A9E24ADCCF5008B1870 /* SceneDelegate.swift */; };
 		B6223AA124ADCCF5008B1870 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6223AA024ADCCF5008B1870 /* ContentView.swift */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2ADFB0EA24B995F7003EC4D2 /* HeartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeartView.swift; sourceTree = "<group>"; };
 		B6223A9924ADCCF5008B1870 /* JackyPi_v5.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JackyPi_v5.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6223A9C24ADCCF5008B1870 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B6223A9E24ADCCF5008B1870 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -71,6 +73,7 @@
 				B6223AA024ADCCF5008B1870 /* ContentView.swift */,
 				B6223AB224ADCD5A008B1870 /* TabbarView.swift */,
 				B6223AB424ADCDF3008B1870 /* HomeView.swift */,
+				2ADFB0EA24B995F7003EC4D2 /* HeartView.swift */,
 				B6223ABA24ADCE8D008B1870 /* CartView.swift */,
 				B6223ABC24ADCEC2008B1870 /* UserView.swift */,
 				B65F148F24AEEA2900B2F4BD /* UserDataView.swift */,
@@ -164,6 +167,7 @@
 				B6223ABB24ADCE8D008B1870 /* CartView.swift in Sources */,
 				B6223A9D24ADCCF5008B1870 /* AppDelegate.swift in Sources */,
 				B65F149024AEEA2900B2F4BD /* UserDataView.swift in Sources */,
+				2ADFB0EB24B995F7003EC4D2 /* HeartView.swift in Sources */,
 				B6223A9F24ADCCF5008B1870 /* SceneDelegate.swift in Sources */,
 				B6223AB324ADCD5A008B1870 /* TabbarView.swift in Sources */,
 				B6223AB524ADCDF3008B1870 /* HomeView.swift in Sources */,

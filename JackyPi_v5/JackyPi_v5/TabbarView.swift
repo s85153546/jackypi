@@ -25,24 +25,24 @@ struct TabbarView: View {
                             
                     }.tag(0)
 
-/*
+
                     HeartView()
                         .tabItem {
                             Image(systemName: "heart")
                             Text("我的最愛")
                             
                     }.tag(1)
-*/
+
                     
                     CartView()
                         .tabItem {
                             Image(systemName: "bag")
-                            Text("購物車")
+                            Text("購物袋")
                             
                     }.tag(2)
 
                     
-                    UserView()
+                    UserDataView()
                         .tabItem {
                             
                             VStack{
